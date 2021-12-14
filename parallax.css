@@ -1,0 +1,119 @@
+.main-container {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+.parallax-scroll {
+  background-image: url(../Images/laptop.jpg);
+  max-width: 100%;
+  min-height: 550px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 90%;
+}
+.core-text {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+  color: rgb(233, 233, 233);
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+#more-button {
+  position: absolute;
+  top: 60%;
+  left: 45%;
+  width: auto;
+  background-color: transparent;
+  margin: auto;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 7px;
+  border-color: white;
+  padding: 7px 12px;
+  text-transform: uppercase;
+}
+.text0 {
+  max-width: 100%;
+  height: auto;
+  padding: 10px;
+  background-color: #282e34;
+  color: white;
+}
+h2 {
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 1em;
+  text-transform: uppercase;
+}
+
+.text1 {
+  max-width: 100%;
+  height: auto;
+  padding: 1em;
+  line-height: 25px;
+  letter-spacing: 1px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.parallax-scroll2 {
+  background-image: url(../Images/tech.jpg);
+  max-width: 100%;
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 80%;
+}
+
+.parallax-scroll3 {
+  background-image: url(../Images/computer.jpg);
+  max-width: 100%;
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 80%;
+}
+footer {
+  background-color: #282e34;
+  max-width: 100%;
+  height: auto;
+}
+
+footer > h2 {
+  color: white;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+}
+.left {
+  float: left;
+  width: 23%;
+  height: auto;
+  padding: 5px;
+  margin-left: 10px;
+}
+.footer-image1 {
+  width: 100%;
+  display: block;
+}
+
+.right {
+  float: left;
+  width: 23%;
+  height: auto;
+  padding: 5px;
+}
+.footer-image2 {
+  width: 100%;
+  display: block;
+}
