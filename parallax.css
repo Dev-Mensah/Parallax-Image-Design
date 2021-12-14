@@ -23,6 +23,13 @@
   letter-spacing: 8px;
   text-transform: uppercase;
 }
+.core-text p {
+  color: rgba(255, 255, 255, 0.527);
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: none;
+  letter-spacing: normal;
+}
 
 #more-button {
   position: absolute;
